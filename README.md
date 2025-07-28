@@ -1,4 +1,4 @@
-# Explanation of Stable Diffusion Model Code
+# Explanation of Stable Diffusion Model Code 💻
 
 Let’s break down the provided Python code step by step, explaining what each part does, with some emojis to make it lively! The code uses the `diffusers` library to generate an image using Stable Diffusion, a text-to-image model.
 
